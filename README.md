@@ -119,6 +119,39 @@
       alt="Oracle DB"/>
   </a>
 </p>
+<h3 align="center">Cloud & Hosting:</h3>
+<p align="center">
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img  src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/> 
+  </a>
+  <a href="https://cloud.google.com/" target="_blank">
+    <img  src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="google cloud"/> 
+  </a>
+</p>
+<h3 align="center">Version Control & CI/CD</h3>
+<p align="center">
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
+      alt="git"/>
+  </a>
+  <a href="https://github.com/bindian0509" target="_blank">
+    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+  <a href="https://gitlab.com/bindian0509" target="_blank">
+    <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
+      alt="git"/>
+  </a>
+    <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"
+      alt="docker"/>
+  </a>
+</p>
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=GersonOtoniel&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=GersonOtoniel&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=GersonOtoniel&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br><br>
+</p>
 
 <!--
 **GersonOtoniel/GersonOtoniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
