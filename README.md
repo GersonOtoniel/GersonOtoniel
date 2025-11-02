@@ -3,7 +3,9 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-<h2 align="left"><u><b>Conocimientos</b></u></h2>
+<h2 style="display: inline-block; border-bottom: 3px solid #000; width: 50%; font-weight: bold;">
+  Conocimientos
+</h2>
 <h3 align="center">Languajes</h3>
 <p align="center">
   <a href="https://www.java.com" target="_blank"> 
@@ -36,17 +38,88 @@
   </a>
 </p>
 <h3 align="center">Backend</h3>
+
 <p align="center">
-<a href="https://spring.io/" target="_blank"> 
-    <img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="spring Boot" /> 
+
+  <!-- Spring Boot -->
+  <a href="https://spring.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
   </a>
-  <a href="https://graphql.org" target="_blank">
-    <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" alt="graphql" />
+
+  <!-- Express.js -->
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   </a>
-  <a href="https://kubernetes.io" target="_blank"> 
-    <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/>
+
+  <!-- Sequelize -->
+  <a href="https://sequelize.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Sequelize-52B0E7.svg?style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize"/>
+  </a>
+
+  <!-- Flask -->
+  <a href="https://flask.palletsprojects.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  </a>
+
+  <!-- .NET -->
+  <a href="https://dotnet.microsoft.com/" target="_blank">
+    <img src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  </a>
+
+  <!-- JWT -->
+  <a href="https://jwt.io/" target="_blank">
+    <img src="https://img.shields.io/badge/JWT-000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+  </a>
+
+  <!-- RabbitMQ -->
+  <a href="https://www.rabbitmq.com/" target="_blank">
+    <img src="https://img.shields.io/badge/RabbitMQ-FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
+  </a>
+
+  <!-- Kubernetes -->
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  </a>
+
+  <!-- PostgreSQL -->
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   </a>
 </p>
+<h3 align="center">Database</h3>
+
+<p align="center">
+  <!-- MySQL -->
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
+      alt="MySQL"/> 
+  </a>
+
+  <!-- Redis -->
+  <a href="https://redis.io" target="_blank"> 
+    <img src="https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"
+      alt="Redis"/>
+  </a>
+
+  <!-- Valkey -->
+  <a href="https://valkey.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Valkey-FF4438.svg?style=for-the-badge&logo=valkey&logoColor=white"
+      alt="Valkey"/>
+  </a>
+
+  <!-- SQL Server -->
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"
+      alt="SQL Server"/>
+  </a>
+
+  <!-- Oracle Database -->
+  <a href="https://www.oracle.com/database/" target="_blank">
+    <img src="https://img.shields.io/badge/Oracle%20DB-F80000?style=for-the-badge&logo=oracle&logoColor=white"
+      alt="Oracle DB"/>
+  </a>
+</p>
+
 <!--
 **GersonOtoniel/GersonOtoniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
